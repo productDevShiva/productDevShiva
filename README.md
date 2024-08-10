@@ -4,7 +4,7 @@
 ⚡ Top skills - React, React Native, Node JS and Express JS<br>
 👀 Product-minded developer with a passion for building impactful user-centric software products<br>
 🌱 An avid learner, on a journey to learn the recipe of a great software product that users love<br>
-💞️ A startup enthusiast and have good experience working in early stage startup
+💞️ A startup enthusiast and have good experience working in early-stage startup
 
 # Techstack
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
