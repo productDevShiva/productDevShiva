@@ -1,7 +1,7 @@
 # Hi there,
 👋 This is Shibaji, a full-stack developer from India<br>
 🤓 I have experience in building and optimizing web and mobile applications from scratch<br>
-⚡ Top skills - React, React Native, Node JS and Express JS<br>
+⚡ Top skills - React, React Native, Node JS, Express JS, Python and FastAPI<br>
 👀 Product-minded developer with a passion for building impactful user-centric software products<br>
 🌱 An avid learner and highly adaptable, have good experience working in fast paced startup environment<br>
 
