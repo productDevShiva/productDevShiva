@@ -1,34 +1,48 @@
 # Hi there,
-👋 This is Shibaji, a software developer from India<br>
-🤓 I have experience in building and optimizing web and mobile applications from scratch<br>
-⚡ Top skills - React, React Native, Next JS, Node JS, Express JS<br>
-👀 Product-minded developer with a passion for building impactful user-centric software products<br>
-🌱 An avid learner and highly adaptable, have good experience working in fast paced startup environment<br>
+👋 Hi, I'm Shibaji from India, a Product and Technology Professional with experience in Product Management, Business Analysis, SaaS platforms and AI-powered solutions. I build practical AI applications using LLMs, RAG, workflow automation and decision-support systems while leveraging a strong foundation in software engineering, APIs, databases and cloud technologies to bridge business objectives, user needs and technical execution.
+
+## Skills:
+# Product & Business
+Product Management
+AI Product Management
+Business Analysis
+Requirements Gathering
+Stakeholder Management
+User Story Writing
+Product Discovery
+Product Strategy
+Agile & Scrum
+Roadmap Planning
+Process Analysis
+
+# AI & Data
+Generative AI
+LLM Applications
+Prompt Engineering
+Retrieval-Augmented Generation (RAG)
+AI Workflow Automation
+Vector Databases
+Embeddings
+AI Solution Design
+
+# Technical & SaaS
+SaaS Platforms
+API Design & Integration
+System Design
+Solution Architecture
+Cloud Technologies
+AWS
+SQL & Databases
+
+# Domain Experience
+Healthcare
+Education
+Banking
+Enterprise Software
 
 # Techstack
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![image](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 
