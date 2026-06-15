@@ -1,8 +1,8 @@
 # Hi there,
 👋 Hi, I'm Shibaji from India, a Product and Technology Professional with experience in Product Management, Business Analysis, SaaS platforms and AI-powered solutions. I build practical AI applications using LLMs, RAG, workflow automation and decision-support systems while leveraging a strong foundation in software engineering, APIs, databases and cloud technologies to bridge business objectives, user needs and technical execution.
 
-## Skills:
-# Product & Business
+# Skills:
+## Product & Business
 Product Management
 AI Product Management
 Business Analysis
@@ -15,7 +15,7 @@ Agile & Scrum
 Roadmap Planning
 Process Analysis
 
-# AI & Data
+## AI & Data
 Generative AI
 LLM Applications
 Prompt Engineering
@@ -25,7 +25,7 @@ Vector Databases
 Embeddings
 AI Solution Design
 
-# Technical & SaaS
+## Technical & SaaS
 SaaS Platforms
 API Design & Integration
 System Design
@@ -34,7 +34,7 @@ Cloud Technologies
 AWS
 SQL & Databases
 
-# Domain Experience
+## Domain Experience
 Healthcare
 Education
 Banking
